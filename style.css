@@ -14,3 +14,7 @@
 .dropdown-item:hover{
    color:orangered!important; 
 }
+.nav{
+    margin-top: initial;
+    margin-bottom: auto;
+}
